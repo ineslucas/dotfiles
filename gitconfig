@@ -61,7 +61,7 @@
   defaultBranch = master
 [user]
 	email = lucasinesmaria@gmail.com
-	name = Ines Lucas
+	name = ines lucas
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
